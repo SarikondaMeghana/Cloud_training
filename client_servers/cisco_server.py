@@ -1,6 +1,6 @@
 import time, socket, sys
 import json
-
+#comment
 with open('config.json', 'r') as config_file:
     config = json.load(config_file)
 print("\nWelcome to Chat Room\n")
